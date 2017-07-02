@@ -1,0 +1,22 @@
+{
+  "name": "gulp_base",
+  "version": "1.0.0",
+  "description": "Base For Future Web Project with SASS autocompile, Minifiy supoort & live sync support Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RSCipher001/Gulp_Basics.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Ravindra Sisodia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RSCipher001/Gulp_Basics/issues"
+  },
+  "homepage": "https://github.com/RSCipher001/Gulp_Basics#readme"
+}
