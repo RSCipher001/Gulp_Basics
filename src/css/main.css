@@ -1,0 +1,12 @@
+body {
+  margin: 0; }
+
+header {
+  padding: 10px;
+  height: 100vh;
+  margin: 0;
+  background: #f9d1c2;
+  font-family: Lobster;
+  font-size: 1.7em;
+  color: #241010;
+  text-align: center; }
