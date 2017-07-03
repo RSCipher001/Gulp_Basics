@@ -1,0 +1,1 @@
+function removeImage(){var e=document.getElementById("img1");e.parentNode.removeChild(e)}
