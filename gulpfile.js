@@ -31,6 +31,8 @@ gulp.task('live', function(){
     server: {
       baseDir: './dist/'
     },
+    ui: false,
+    online: false
   });
   gulp.watch('./dist/**/*', browsersync.reload);
 });
@@ -40,6 +42,8 @@ gulp.task('browser-sync', function() {
     server: {
       baseDir: './src/'
     },
+    ui: false,
+    online: false
   });
 });
 
